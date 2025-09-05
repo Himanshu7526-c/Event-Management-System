@@ -1,4 +1,4 @@
-# git add README.md
+# Event Management System
 
 A full-stack Event Management System built with **React**, **Node.js**, **Express**, and **MongoDB**. Users can login with a code, view ongoing and past events, add and update events with media (photos/videos), and track event activities.
 
